@@ -15,7 +15,7 @@ Companies often conduct route planning optimization studies to reduce these cost
 It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations on a daily basis.
 
 ### Medium Article
-In this [Medium Article](--), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
+In this [Medium Article](https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
 
 
 ### Scenario
