@@ -17,6 +17,11 @@ It requires **collaboration** between continuous improvement engineers and the t
 ### Article
 In this [Article](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
 
+### Youtube Video
+Click on the image below to access a short explainer video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=lhDBTlsGDVc"><img src="https://i.ytimg.com/vi/lhDBTlsGDVc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFTyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW3XmI1zkXElOVtqEQFBBJV-ctrw" alt="Explainer Video Link"></a>
+</div>
 
 ### Scenario
 As a **continuous improvement engineer** of a retail company, you are in charge of the reengineering of warehousing and transportation operations. In your scope, you have a major distribution centre located in Shanghai (China) that delivers **54 hypermarkets**.
