@@ -14,6 +14,8 @@ Companies often conduct route planning optimization studies to reduce these cost
 
 It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations on a daily basis.
 
+📘 Your complete guide for Supply Chain Analytics: 60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+
 ### Article
 In this [Article](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
 
