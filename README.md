@@ -12,13 +12,13 @@ Build graphical representations of a road transportation network to support netw
 For a retailer, road transportation between the distribution centre and stores represents a major part of the logistics costs. 
 Companies often conduct route planning optimization studies to reduce these costs and improve the efficiency of their network.
 
-It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations on a daily basis.
+It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations daily.
 
 ### 📘 Your complete guide for Supply Chain Analytics
 60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
 
 ### Article
-In this [Article](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
+In this [Article](https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
 
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
@@ -27,7 +27,7 @@ Click on the image below to access a full tutorial video to understand the conce
 </div>
 
 ### Scenario
-As a **continuous improvement engineer** of a retail company, you are in charge of the reengineering of warehousing and transportation operations. In your scope, you have a major distribution centre located in Shanghai (China) that delivers **54 hypermarkets**.
+As a **continuous improvement engineer** of a retail company, you are in charge of reengineering warehousing and transportation operations. In your scope, you have a major distribution centre located in Shanghai (China) that delivers **54 hypermarkets**.
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*RIXTE99d2grMCtvy5g_0EQ.png">
 </p>
@@ -42,13 +42,13 @@ The objective is to design  a new transportation plan to increase the average si
 </p>
                                                                                                
 #### Solution: Graph Theory
-A graph is a structure that contains nodes (stores) and each of the related pairs of nodes is called an edge.
+A graph is a structure that contains nodes (stores), and each related pair of nodes is called an edge.
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*YqUdhRzq9vHfuslfKFInCA.png">
 </p>
 
 #### Further Analysis
-With these graphs you can challenge the current routing and discuss about optimization levers with the transportation teams.
+With these graphs, you can challenge the current routing and discuss optimization levers with the transportation teams.
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*vrsJmzuXzrFMy_qA4FuvVg.png">
 </p>
