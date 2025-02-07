@@ -18,7 +18,7 @@ It requires **collaboration** between continuous improvement engineers and the t
 60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
 
 ### Article
-In this [Article](https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
+In this [Article](https://medium.com/towards-data-science/transportation-network-analysis-with-graph-theory-55eceb7e4de4), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
 
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
