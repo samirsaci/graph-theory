@@ -1,16 +1,22 @@
 ## Transportation Network Analysis with Graph Theory 🚚
-*Use the graph theory to optimize the road transportation network of a retail company*
+*Use the graph theory to optimise the road transportation network of a retail company*
 
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*J0KtD5r1x0JUTt_YeI2QRA.png">
+  <a href="https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*J0KtD5r1x0JUTt_YeI2QRA.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 ### Objective
-Build graphical representations of a road transportation network to support network optimization studies.
+Build graphical representations of a road transportation network to support network optimisation studies.
 
 ### Introduction
-For a retailer, road transportation between the distribution centre and stores represents a major part of the logistics costs. 
-Companies often conduct route planning optimization studies to reduce these costs and improve the efficiency of their network.
+For a retailer, road transportation between the distribution centre and stores accounts for a significant share of logistics costs. 
+Companies often conduct route-planning optimisation studies to reduce these costs and improve network efficiency.
 
 It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations daily.
 
@@ -29,36 +35,59 @@ Click on the image below to access a full tutorial video to understand the conce
 ### Scenario
 As a **continuous improvement engineer** of a retail company, you are in charge of reengineering warehousing and transportation operations. In your scope, you have a major distribution centre located in Shanghai (China) that delivers **54 hypermarkets**.
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*RIXTE99d2grMCtvy5g_0EQ.png">
+  <a href="https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*RIXTE99d2grMCtvy5g_0EQ.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 #### Objective
 Your objective is to reduce the total cost of transportation.
 
 #### Insights: Cost per Ton
-The objective is to design  a new transportation plan to increase the average size of trucks by delivering more stores per route.
+The objective is to design  a new transportation plan to increase the average truck size by delivering more stores per route.
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*UCtbo4w43ZghEHtXtTuVuQ.png">
+  <a href="https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*UCtbo4w43ZghEHtXtTuVuQ.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
                                                                                                
 #### Solution: Graph Theory
-A graph is a structure that contains nodes (stores), and each related pair of nodes is called an edge.
+A graph is a structure that consists of nodes (vertices) and edges, where each edge connects two nodes.
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*YqUdhRzq9vHfuslfKFInCA.png">
+  <a href="https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*YqUdhRzq9vHfuslfKFInCA.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 #### Further Analysis
-With these graphs, you can challenge the current routing and discuss optimization levers with the transportation teams.
+With these graphs, you can challenge the current routing and discuss optimisation levers with the transportation teams.
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*vrsJmzuXzrFMy_qA4FuvVg.png">
+  <a href="https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*vrsJmzuXzrFMy_qA4FuvVg.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
                                                                                                
 
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
 For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
-
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
