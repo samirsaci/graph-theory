@@ -87,6 +87,24 @@ With these graphs, you can challenge the current routing and discuss optimisatio
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Network Graph.ipynb` - Jupyter notebook with step-by-step analysis
+- `network_graph.py` - Standalone Python script
+- `data/` - Folder containing input data (store province.xlsx, delivery records.xlsx)
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python network_graph.py
+```
+
+### Dependencies
+- numpy
+- pandas
+- matplotlib
+- networkx
+- openpyxl
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
 For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
