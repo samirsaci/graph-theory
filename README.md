@@ -21,7 +21,7 @@ Companies often conduct route-planning optimisation studies to reduce these cost
 It requires **collaboration** between continuous improvement engineers and the transportation teams that manage operations daily.
 
 ### 📘 Your complete guide for Supply Chain Analytics
-60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://abstracted-hydrant-a3d.notion.site/Supply-Chain-Analytics-Cheat-Sheet-d449e3d53cfc45978aa889d3ef40f559?pvs=4)
 
 ### Article
 In this [Article](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/), we will use Graph Theory to design visual representations of a transportation network to support this collaboration and facilitate solution design.
@@ -105,7 +105,15 @@ python network_graph.py
 - networkx
 - openpyxl
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Transportation Network Analysis with Graph Theory](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/?utm_source=github&utm_medium=readme&utm_campaign=graph-theory)
+- **The video:** [Transportation Network Analysis with Graph Theory](https://youtu.be/lhDBTlsGDVc)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=graph-theory) has a quiz on road transportation and lessons on transportation management, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=graph-theory)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+
